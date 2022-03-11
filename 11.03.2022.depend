@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646988016 source:z:\kodçðana\11.03.2022\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<bits/stdc++.h>
+
