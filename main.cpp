@@ -207,3 +207,4 @@ int main()
 }
 // Ingolfs Janis Dzintars Liga Aleksandra Solvita Vita Liga
 // Lusis Strods Ziedins Cane Birkova Vicupa Medniece Silauniece
+// sviests kartupeli picamaize cepumi koslenes mandariniteja
